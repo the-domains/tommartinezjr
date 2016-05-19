@@ -1,0 +1,28 @@
+name: '@tommartinezjr'
+favicon: null
+layout_spectrum: 0.34081203723326325
+typography_spectrum: 0.9060822948813438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.754977909848094
+  lightness: 0.4370864366646856
+  saturation: 0.6294666049070656
+  rhythmicContrast: 0.20411056280136108
+purpose: []
