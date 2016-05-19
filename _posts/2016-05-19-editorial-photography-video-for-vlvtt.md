@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Sullen Clothing Hired me to Direct a visual Look Book for their 2013 line of women's clothing. I got in a car with a photographer, the model, Stephanie Chapman, and the director of the Sullen Angels and we drove from Los Angeles to Tempe, AZ shooting along the way."
-datePublished: '2016-05-19T05:05:59.847Z'
-dateModified: '2016-05-19T05:05:49.346Z'
+datePublished: '2016-05-19T05:07:18.582Z'
+dateModified: '2016-05-19T05:06:32.996Z'
 title: "Sullen Angels Women's Look Book 2013"
 author:
   - name: ''
