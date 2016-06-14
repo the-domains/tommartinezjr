@@ -8,15 +8,15 @@ description: >-
   I collaborated on a photo shoot with Los Angeles Photographer, Marc Mez,
   @marcmez. We traveled around downtown Los Angeles in the Toy District to get
   some amazing shots of Anna Linsky for "The Jeans Project".
-datePublished: '2016-06-14T03:35:19.400Z'
-dateModified: '2016-06-14T03:35:18.744Z'
+datePublished: '2016-06-14T03:37:33.292Z'
+dateModified: '2016-06-14T03:37:23.960Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-06-14-i-collaborated-on-a-photo-shoot-with-los-angeles-photographe.md
+starred: false
 url: i-collaborated-on-a-photo-shoot-with-los-angeles-photographe/index.html
 _type: Article
 
